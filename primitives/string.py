@@ -72,4 +72,3 @@ caristring = "Padang"
 print(menu.find(caristring)) #output 5 karena dimulai dari index setelah 5
 
 
-
